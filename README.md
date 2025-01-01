@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo Link
 
-Access the live site at [Project-Link](https://straitpay-todo.vercel.app)
+Access the live site at [Project-Link](https://chuck-todo.vercel.app)
 
 ## Technologies Used
 
