@@ -1,5 +1,5 @@
 {
-  "name": "straitpay-todo-server",
+  "name": "todo-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

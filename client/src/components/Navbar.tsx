@@ -38,7 +38,7 @@ const Navbar = () => {
               !state.isSidebarOpen ? "ml-5" : "ml-0"
             }`}
           >
-            straitPay.
+            COURE
           </h1>
         </div>
         <div
